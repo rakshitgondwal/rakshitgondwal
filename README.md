@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFHAa1d6NI/Yu524weZ2xQ6s8wenhvkuQ/view)]
+[![MasterHead](https://www.canva.com/design/DAFHAa1d6NI/Yu524weZ2xQ6s8wenhvkuQ/view)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
 <h3 align="center">An Open source enthusiast and a Front-end web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
