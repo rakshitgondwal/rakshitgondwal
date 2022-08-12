@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rakshit</h1>
+<h1 align="center">Hey 👋, I'm Rakshit</h1>
 <h3 align="center">An Open source enthusiast and a Front-end web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
