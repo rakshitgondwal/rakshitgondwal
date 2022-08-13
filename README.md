@@ -1,3 +1,5 @@
+<p align="center"><a href="https://twitter.com/RakshitGondwal"><img width="80%" alt="Hello, I'm Rakshit. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 # 💫 About Me:
 🔭 I’m currently working on Fullstack Web Development.<br>👯 I’m looking to collaborate on Web Development projects.<br>🌱 I’m currently learning about React.js<br>
 
