@@ -18,6 +18,9 @@
   
 
 - ⚡ Fun fact: I love video editing.  
+
+
+- 📃 Checkout my Blogs over here- https://rakshitgondwal.hashnode.dev/
   
 
 <br/>  
