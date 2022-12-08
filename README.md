@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div
   
 
 ### <div align="center">I'm Rakshit, a full-stack web developer 👨‍💻 Learning and growing via contributing to communities and open source 🚀</div>  
