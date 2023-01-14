@@ -7,8 +7,6 @@
 
 ### <div align="center">I'm Rakshit, a full-stack web developer 👨‍💻 Learning and growing via contributing to communities and open source 🚀</div>  
   
-
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/rakshitgondwal/portfolio-website)  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes.  
