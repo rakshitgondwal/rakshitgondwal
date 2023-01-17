@@ -9,17 +9,14 @@
   
   
 
-- 🌱 I’m currently learning Docker and Kubernetes.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I love video editing.  
-
-
-- 📃 Checkout my Blogs over here- https://hashnode.com/@rakshitgondwal
-  
+- :mortar_board: Currently a Sophomore, pursuing my Bachelors from Punjab Egnineeing College, Chandigarh. 
+- :raising_hand: Passionate about **DevOps**, **Cloud-Native Technologies** and **Web Dev**.
+- :computer: Using Go frequently for Open Source contributions to CNCF and Cloud-native related projects.
+-  🌱 Currently I am learning about **Kubernetes** and **AWS**.
+- :cowboy_hat_face: I also try to share my knowledge on my **[Blog](https://hashnode.com/@rakshitgondwal)** about :
+	- CNCF Projects
+	- Development concepts
+	- Devops
 
 <br/>  
 
