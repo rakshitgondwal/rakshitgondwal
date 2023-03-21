@@ -9,7 +9,7 @@
   
   
 
-- :mortar_board: Currently a Sophomore, pursuing my Bachelors from Punjab Egnineeing College, Chandigarh. 
+- :mortar_board: Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh. 
 - :raising_hand: Passionate about **DevOps**, **Cloud-Native Technologies** and **Web Dev**.
 -  🌱 Currently I am learning more about **Kubernetes** and **Golang**.
 - :cowboy_hat_face: I also try to share my knowledge on my **[Blog](https://hashnode.com/@rakshitgondwal)** about :
