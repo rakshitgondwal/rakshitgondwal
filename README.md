@@ -3,16 +3,11 @@
 
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
-I am passionate for everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and commuinites.
-  
-
-- :mortar_board: Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh. 
-- :raising_hand: Passionate about **DevOps**, **Cloud-Native Technologies** and **Web Dev**.
--  🌱 Currently I am learning more about **Kubernetes** and **Golang**.
-- :cowboy_hat_face: I also try to share my knowledge on my **[Blog](https://hashnode.com/@rakshitgondwal)** about :
-	- CNCF Projects
-	- Development concepts
-	- Devops
+- I am passionate for everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and commuinites.
+- I am Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh. 
+- Learning and contributing in Kubernetes and Golang. I have contrinuted to a lot of CNCF projects.
+- I also try to share my knowledge on my [Blog](https://hashnode.com/@rakshitgondwal) about CNCF projects, DevOps, Observability etc.
+	
 
 <br/>  
 
