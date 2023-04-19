@@ -1,8 +1,9 @@
 
 
 
-### <div align="center">Hi there! I am Rakshit.</div>  
+## <div align="left">Hi there! I am Rakshit.</div>  
   
+I am passionate for everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and commuinites.
   
 
 - :mortar_board: Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh. 
