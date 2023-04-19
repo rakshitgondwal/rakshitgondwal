@@ -1,11 +1,7 @@
-<p align="center"><a href="https://twitter.com/RakshitGondwal"><img width="100%" alt="Hello, I'm Rakshit. I do open source!" src="./assets/readmeBanner.png" /></a></p>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
-  
 
-### <div align="center">I'm Rakshit, a DevOps enthusiast and Cloud Native Lover👨‍💻 Learning and growing via contributing to communities and open source 🚀</div>  
+
+### <div align="center">Hi there! I am Rakshit.</div>  
   
   
 
