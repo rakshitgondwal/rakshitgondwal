@@ -4,8 +4,7 @@
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
 - I am passionate for everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and communites.
-- I am Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh, India. 
-- Learning and contributing in Kubernetes and Golang. I have contributed to a lot of CNCF projects.
+- Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh, India. 
 - I also try to share my knowledge on my [Blog](https://hashnode.com/@rakshitgondwal) about CNCF projects, DevOps, Observability etc.
 	
 
