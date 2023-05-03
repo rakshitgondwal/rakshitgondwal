@@ -3,8 +3,8 @@
 
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
-- I am passionate for everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and communites.
-- Currently a Sophomore, pursuing my Bachelors from Punjab Engineeing College, Chandigarh, India. 
+- I am passionate about everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and communities.
+- Currently a Sophomore, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
 - I also try to share my knowledge on my [Blog](https://rakshitgondwal.github.io/blogs/) about CNCF projects, DevOps, Open Source etc.
 	
 
