@@ -7,7 +7,7 @@
 - I am working as an LFX'23 Fall Mentee for the Kyverno project.
 - I am also an Approver for the Keptn project which is a CNCF incubating project.
 - Earlier, I worked as a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
-- I Am currently a Sophomore, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
+- Currently a Sophomore, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
 - I also try to share my knowledge on my [Blog](https://rakshitgondwal.github.io/blogs/) about CNCF projects, DevOps, Open Source etc.
 	
 
