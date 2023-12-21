@@ -4,9 +4,10 @@
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
 - I am passionate about everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and communities.
-- I am working as an LFX'23 Fall Mentee for the Kyverno project.
+- I am currently working at Summit Technology Group India as a Cloud Engineering Intern.
 - I am also an Approver for the Keptn project which is a CNCF incubating project.
-- Earlier, I worked as a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
+- Earlier, I have worked as an LFX'23 Fall Mentee for the Kyverno project.
+- I have also worked as a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
 - Currently a Pre-final year student, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
 - I also try to share my knowledge on my [Blog](https://rakshitgondwal.github.io/blogs/) about CNCF projects, DevOps, Open Source etc.
 	
