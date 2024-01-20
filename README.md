@@ -10,10 +10,6 @@
 - I have also worked as a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
 - Currently a Pre-final year student, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
 - I also try to share my knowledge on my [Blog](https://rakshitgondwal.github.io/blogs/) about CNCF projects, DevOps, Open Source etc.
-	
-
-<br/>  
-<br/>  
 
 
 ## Connect with me  
