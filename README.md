@@ -3,8 +3,7 @@
 
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
-- I am passionate about everything DevOps and all Cloud Native things. I love to learn and give back by contributing to open source and communities.
-- I am currently looking for roles as a Golang Developer.
+- I am currently work at Chainguard as a Software Engineer Intern.
 - I am also an Approver for the Keptn project which is a CNCF incubating project.
 - Earlier, I worked as a Cloud Engineering Intern at Summit Technology Group, an LFX'23 Fall Mentee for the Kyverno project, and a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
 - I am Currently a Final year student, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
