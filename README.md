@@ -3,7 +3,7 @@
 
 ## <div align="left">Hi there! I am Rakshit.</div>  
   
-- I am currently work at Chainguard as a Software Engineer Intern.
+- I am currently working at Chainguard as a Software Engineer Intern.
 - I am also an Approver for the Keptn project which is a CNCF incubating project.
 - Earlier, I worked as an LFX'23 Fall Mentee for the Kyverno project, and a Google Summer of Code'23 Mentee for the CNCF organization under the Keptn Project in Summer 2023.
 - I am Currently a Final year student, pursuing my Bachelor's from Punjab Engineering College, Chandigarh, India. 
